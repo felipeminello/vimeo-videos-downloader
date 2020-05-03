@@ -1,0 +1,16 @@
+{
+  "name": "download-vimeo-files",
+  "version": "1.0.0",
+  "description": "Esquema para baixar vídeos do Vimeo",
+  "main": "list.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "vimeo": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Minello",
+  "license": "ISC"
+}
